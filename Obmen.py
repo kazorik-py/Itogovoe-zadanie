@@ -26,7 +26,6 @@ def exchange():
         mb.showwarning("Внимание", "Введите код валюты")
 
 
-# Создание графического интерфейса
 window = Tk()
 window.title("Курс обмена валюты к доллару")
 window.geometry("360x180")
